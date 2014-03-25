@@ -1,6 +1,6 @@
-Distance function to handle QWERTY keyboards typos and character inversions.
+Distance function to handle QWERTY keyboard typos and character inversions.
 
 
-This project is a fork of the original
+This project is a fork of
 https://github.com/ekta1007/Custom-Distance-function-for-typos-in-hand-generated-datasets-with-QWERY-Keyboard
 
